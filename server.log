@@ -57,3 +57,153 @@ https://nextjs.org/telemetry
  ⨯ A conflicting public file and page file was found for path /favicon.ico https://nextjs.org/docs/messages/conflicting-public-file-page
  GET /favicon.ico 500 in 59ms
  ✓ Compiled in 185ms
+ ⚠ Found a change in next.config.ts. Restarting the server to apply the changes...
+   ▲ Next.js 15.5.6 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://169.254.0.21:3000
+
+ ✓ Starting...
+ ✓ Ready in 4.9s
+ ○ Compiling / ...
+ ✓ Compiled / in 5.9s
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.ma2pfyxlb2a'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.ma2pfyxlb2a'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 2.7s
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.l2haayjdtb'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.l2haayjdtb'
+}
+[Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.ma2pfyxlb2a'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.ma2pfyxlb2a'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.tbvj4rd0bzb'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.tbvj4rd0bzb'
+}
+[Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.al457s2k2f'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.al457s2k2f'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.rd3l23vff4'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.rd3l23vff4'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.ceqhflvsf3a'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.ceqhflvsf3a'
+}
+[Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.rd3l23vff4'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.rd3l23vff4'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.krxeiahseta'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.krxeiahseta'
+}
+[Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.dn8etset51k'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.dn8etset51k'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.0ivj4vpw4a0q'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.0ivj4vpw4a0q'
+}
+[Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.i05z31ajfu'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.i05z31ajfu'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.fkm5y78qe5g'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.fkm5y78qe5g'
+}
+[Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.iq7fp6sxab'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.iq7fp6sxab'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.9kr6fjygecr'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.9kr6fjygecr'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.maza6n949q'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.maza6n949q'
+}
+[Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.9kr6fjygecr'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.9kr6fjygecr'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.rppo7qy785o'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.rppo7qy785o'
+}
+[Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.lzp4vrvcpo8'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.lzp4vrvcpo8'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.6iy6rha65s9'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.6iy6rha65s9'
+}
+[Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.6vdh5sff8rd'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.6vdh5sff8rd'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.0ozrul86b2b'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.0ozrul86b2b'
+}
+[Error: ENOENT: no such file or directory, open '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.ee3nu8gjmq'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/code/shadcn_init__/.next/static/development/_buildManifest.js.tmp.ee3nu8gjmq'
+}
+[?25h
