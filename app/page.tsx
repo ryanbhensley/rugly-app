@@ -107,7 +107,7 @@ export default function Home() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-4xl font-bold mb-4">Create Your Own Masterpiece</h2>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            Upload your image and we will transform it into a custom rug. 
+            Upload your image to create a custom rug.
             Turn your photos, artwork, or designs into beautiful floor art.
           </p>
           <Link href="/custom">
